@@ -39,3 +39,16 @@ We conducted thorough data cleaning to ensure the accuracy and reliability of th
 The results of this clean and processed data are found in **TechWay-AnalysedWork.xlsx**.
 
 ---
+
+## Summary Worksheet
+In addition to the above, we created a "Summary" worksheet in the cleansed file to display the following outputs using basic Excel formulas like IF and COUNTIFS:
+1. Total Tickets per Team
+2. Total Tickets per Priority
+3. Total Tickets per Type
+4. Total Open Tickets
+5. Total Resolved Tickets
+6. Total Closed Tickets
+7. Total Open/Answered Tickets
+8. Total Tickets from “Email”
+9. Total Tickets from “Web”
+10. Total Tickets from “Phone”
