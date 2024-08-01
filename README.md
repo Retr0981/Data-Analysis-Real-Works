@@ -39,11 +39,11 @@ The results of this clean and processed data are found in **TechWay-AnalysedWork
 
 ---
 
-## Welcome Back!
 
-Hi there! 👋 I’m excited to share with you my latest project: TechWay-Formulas. This Excel workbook is crafted with care to help you dive into ticket data with meaningful insights and powerful calculations.
 
 ## What’s Inside?
+Hi there! 👋 I’m excited to share with you my latest project: TechWay-Formulas. This Excel workbook is crafted with care to help you dive into ticket data with meaningful insights and powerful calculations.
+
 
 ### 1. Key Metrics
 
@@ -80,6 +80,33 @@ I’ve added a new dimension to our ticket analysis with SLA calculations! Here�
   - Priority
 
 This feature is designed to make tracking and managing tickets even easier.
+
+
+
+
+## What’s New?
+Hey there! 🎉 I'm thrilled to share the next exciting phase of the TechWay-Formulas project. This time, we're diving into the world of data visualization with Pivot Tables and Charts to make our data analysis even more powerful and intuitive.
+
+
+### 1. Pivot Tables Worksheet
+
+I’ve added a new worksheet dedicated to Pivot Tables. Here’s what you’ll find:
+- **Total Tickets per Team**: Get a clear breakdown of ticket volumes by each team.
+- **Total Tickets per Priority**: See how tickets are distributed across different priority levels.
+
+### 2. Pivot Charts Worksheet
+
+To make the data even more accessible, I’ve included a new worksheet with Pivot Charts:
+- **Total Tickets per Status**: Visualize ticket statuses through a dynamic chart for an instant view of ticket distribution.
+
+### 3. Interactive Slicers
+
+In the Pivot Charts sheet, you can now interact with the data using slicers:
+- **Priority**: Filter tickets by their priority levels.
+- **Source**: Slice the data by the origin of the tickets.
+- **Type**: View tickets based on their types.
+- **Department**: Focus on tickets by department.
+- **Breached SLA**: See which tickets have breached their SLA.
 
 ## How to Use
 
