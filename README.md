@@ -11,6 +11,7 @@ This project analyzes helpdesk tickets to enhance understanding of common issues
 ## Files Description
 
 ### 1. TechWay-AnalysedWork.xlsx
+This file contains the results of our detailed analysis after proper data cleaning:
 - Summary statistics of ticket counts and resolution times.
 - Trends analysis for ticket creation and resolution.
 - Performance metrics: response times and SLA compliance.
@@ -27,5 +28,14 @@ This project analyzes helpdesk tickets to enhance understanding of common issues
 ### 3. Ticket and Date Created List.xlsx
 - Ticket ID: Unique identifier.
 - Created Date: Date of creation.
+
+## Data Cleaning
+We conducted thorough data cleaning to ensure the accuracy and reliability of the analysis:
+- Removed duplicates and irrelevant entries.
+- Handled missing values appropriately.
+- Standardized date formats and ticket categories.
+- Verified data consistency across datasets.
+
+The results of this clean and processed data are found in **TechWay-AnalysedWork.xlsx**.
 
 ---
