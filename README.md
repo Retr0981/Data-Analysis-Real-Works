@@ -85,7 +85,7 @@ This feature is designed to make tracking and managing tickets even easier.
 
 
 ## What’s New?
-Hey there! 🎉 I'm thrilled to share the next exciting phase of the TechWay-Formulas project. This time, we're diving into the world of data visualization with Pivot Tables and Charts to make our data analysis even more powerful and intuitive.
+Hey there! 🎉 I'm thrilled to share the next exciting phase of the TechWay project. This time, we're diving into the world of data visualization with Pivot Tables and Charts to make our data analysis even more powerful and intuitive.
 
 
 ### 1. Pivot Tables Worksheet
@@ -108,7 +108,19 @@ In the Pivot Charts sheet, you can now interact with the data using slicers:
 - **Department**: Focus on tickets by department.
 - **Breached SLA**: See which tickets have breached their SLA.
 
+---
 
+## Welcome to the Final Touch!
+
+Hello again! 🎉 We’re wrapping up the TechWay project with an exciting new task: crafting a PowerPoint presentation to share insights and recommendations based on our analysis.
+
+## What’s Next?
+
+### PowerPoint Presentation
+
+I’ve created a PowerPoint presentation that consolidates all the findings from our previous reports and summaries. Here’s what’s included:
+- **Data Insights**: Visuals and key takeaways from the metrics, SLA calculations, and pivot analyses.
+- **Recommendations**: Actionable suggestions on how to enhance support processes to better meet SLAs and improve overall efficiency.
 
 ## Feedback and Contributions
 
