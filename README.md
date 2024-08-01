@@ -108,13 +108,7 @@ In the Pivot Charts sheet, you can now interact with the data using slicers:
 - **Department**: Focus on tickets by department.
 - **Breached SLA**: See which tickets have breached their SLA.
 
-## How to Use
 
-1. **Clone** or **download** this repo to get started.
-2. Open `TechWay-Formulas.xlsx` in Excel.
-3. Check out the “Summary” sheet for a broad view of ticket metrics.
-4. Explore the “Tickets List” for SLA details and breaches.
-5. Use the “Ticket Viewer” to quickly look up ticket information by number.
 
 ## Feedback and Contributions
 
