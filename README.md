@@ -41,7 +41,8 @@ The results of this clean and processed data are found in **TechWay-AnalysedWork
 ---
 
 ## Summary Worksheet
-In addition to the above, we created a "Summary" worksheet in the cleansed file to display the following outputs using basic Excel formulas like IF and COUNTIFS:
+In addition to the above, this repository contains an Excel file, `TechWay-Formulas.xlsx`, with a worksheet named "Summary." The file calculates and displays key ticket metrics based on the cleansed data provided.
+
 1. Total Tickets per Team
 2. Total Tickets per Priority
 3. Total Tickets per Type
